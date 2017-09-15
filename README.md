@@ -1,1 +1,5 @@
-# moe-django-mysql
+# moe-django-postgres
+
+```
+docker-compose up --build
+```
